@@ -1,0 +1,2 @@
+# promise
+typescripted promise
