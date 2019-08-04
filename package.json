@@ -1,0 +1,22 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "typescripted promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/Axepuff/promise.git",
+  "keywords": [
+    "promise"
+  ],
+  "author": "axepuff@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axepuff/promise/issues"
+  },
+  "homepage": "https://github.com/Axepuff/promise#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
